@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SOS Game</string>
     <string name="reset">Reset</string>
+    <string name="firstpage_Textview1">SOS Game</string>
 </resources>
