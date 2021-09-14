@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public void pressButton (View pressed){
         pressed.setEnabled(false);
         TextView output = findViewById(R.id.outputText);
-//COMMENT
+//COMMENTNI
 
         if(output.getText()=="Player 1 turn!"){
             ((TextView) findViewById(R.id.outputText)).setText("Player 2 turn!");
