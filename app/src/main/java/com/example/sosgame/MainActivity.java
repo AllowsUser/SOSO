@@ -33,6 +33,10 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+    /*
+    * sample changes
+    *
+    * */
     public void pressReset (View resetPressed){
         ((TextView) findViewById(R.id.outputText)).setText("Player 1 turn!");
         //Buttons
